@@ -1,4 +1,4 @@
-[workspace]
+#[workspace]
 members = ["cargo-insta"]
 resolver = "2"
 

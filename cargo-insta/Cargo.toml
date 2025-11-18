@@ -11,7 +11,7 @@ keywords = ["snapshot", "testing", "jest"]
 categories = ["development-tools::cargo-plugins"]
 edition = "2021"
 readme = "README.md"
-rust-version = "1.65.0"
+# rust-version = "1.65.0"
 
 [dependencies]
 insta = { version = "=1.43.2", path = "../insta", features = [
